@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "host = $(hostname)"
+echo "host is $(hostname)"
 echo "Sum="$(($num1 + $num2))
 
