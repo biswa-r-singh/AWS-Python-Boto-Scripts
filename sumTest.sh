@@ -1,5 +1,6 @@
 #!/bin/bash
 
-echo "biswa push 7"
+echo "biswa push"
 echo "Sum="$(($num1 + $num2))
+exit 1
 
